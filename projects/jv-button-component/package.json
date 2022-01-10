@@ -1,0 +1,24 @@
+{
+  "name": "jv-button-component",
+  "description": "A simple component for rendering buttons in your Angular application.",
+  "version": "0.0.1",
+  "keywords": ["Button", "Component", "Angular"],
+  "homepage": "https://github.com/santiago-jv/jv-button-component#readme",
+  "bugs": {
+    "url": "https://github.com/santiago-jv/jv-button-component/issues",
+    "email": "santiagoolayojv@gmail.com"
+  },
+  "license": "MIT",
+  "author": {
+    "email":"santiagoolayojv@gmail.com",
+    "name": "Santiago Olayo",
+    "url": "https://github.com/santiago-jv"
+  },
+  "peerDependencies": {
+    "@angular/common": "^13.1.0",
+    "@angular/core": "^13.1.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}

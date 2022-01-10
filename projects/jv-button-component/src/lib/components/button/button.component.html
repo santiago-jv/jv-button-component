@@ -1,0 +1,4 @@
+<button (mouseleave)="removeHoverEffects()" (mouseover)="applyHoverEffects()" [ngStyle]="buttonStyles" >
+    <i *ngIf="iconName" [class]="iconName" [ngStyle]="iconStyles" ></i>
+    <p [ngStyle]="textStyles">{{text}}</p>
+</button>
